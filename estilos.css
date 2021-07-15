@@ -1,0 +1,36 @@
+.logo{
+    padding-top: 12px;
+    font-size: medium;
+}
+.tarjeta{
+    padding-left: 15px;
+    text-align: left;
+}
+.buscar{
+ 
+    border-radius: 8px !important;
+}
+
+.card-interespacio{
+    padding: 0px !important;
+}
+
+.card-borde{
+    border: 1px solid lightgrey;
+}
+
+.card-imagen{
+    width: 100%;
+    height: 232px;
+}
+.formulario{
+    font-weight: normal;
+    text-align: left;
+    margin-left: 0;
+}
+#email{
+    margin-left: 10px;
+}
+#pwd{
+    margin-left: 10px;
+}
